@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Junio Horniche</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 👨‍💻 All of my projects are available at [www.juniohorniche.com.br](www.juniohorniche.com.br)
+- 👨‍💻 All of my projects are available at [www.juniohorniche.com.br](https://juniohorniche.com.br)
 
-- 📝 I regularly write articles on [juniohorniche/blog](www.juniohorniche.com.br/blog)
+- 📝 I regularly write articles on [juniohorniche/blog](https://juniohorniche.com.br/blog)
 
 - 📫 How to reach me **juniohorniche@gmail.com**
 
